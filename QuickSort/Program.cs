@@ -50,6 +50,7 @@ namespace QuickSort
             arr[x] = arr[y];
             arr[y] = temp;
         }
+        
         static void Main(string[] args)
         {
         }
